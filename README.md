@@ -271,10 +271,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Yuhao Lu**
+**Sky Lu**
 - GitHub: [@Sky-Lu6](https://github.com/Sky-Lu6)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- Email: yuhaolu4@illinois.edu
 
 ---
 
