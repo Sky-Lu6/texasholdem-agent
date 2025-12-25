@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# PyTorch models (too large for git)
+*.pt
+*.pth
+checkpoints/*.pt
+checkpoints/*.pth
+
+# Training data (too large)
+*.pkl
+replay.pkl
+train_state.pkl
+
+# Node
+node_modules/
+dist/
+build/
+.vite/
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# Logs
+*.log
+deep_cfr_training.log
+
+# Game history (generated files)
+pgns/*.pgn
+
+# Keep directory structure but ignore contents
+!checkpoints/.gitkeep
+!pgns/.gitkeep
